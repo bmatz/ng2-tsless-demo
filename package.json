@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An Angular 2 Demo App.",
   "scripts": {
-    "postinstall": "webdriver-manager update && gulp build",
+    "postinstall": "gulp build",
     "start": "lite-server",
     "build": "gulp build",
     "watch": "gulp watch",
